@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-link-hover:hover {
+    color: #0a7b91 !important;
+    padding-bottom: 5px !important; 
+    border-bottom: 2px solid transparent; 
+    transition: all 2s ease-in-out; 
+}
